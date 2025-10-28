@@ -1,0 +1,5 @@
+
+{
+  "name": "Sistema de Comandas para Hospedagem",
+  "description": "Um sistema para gerenciar comandas de quartos em um serviço de hospedagem, permitindo adicionar produtos, realizar vendas e consultar o consumo. Os dados são armazenados localmente no navegador."
+}
